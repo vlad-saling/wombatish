@@ -9,4 +9,12 @@ Warning: It maybe a bit excentric.
 
 Install
 ----------
-Clone or download into Sublime Package folder
+Clone/download into Sublime Package folder or use Sublime package manager.
+
+
+Examples
+----------
+
+![html](https://dl.dropboxusercontent.com/u/33040431/html.png)
+
+![css](https://dl.dropboxusercontent.com/u/33040431/css.png)
