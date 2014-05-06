@@ -5,7 +5,7 @@ Sublime/TextMate color scheme based original Vim theme [Wombat](http://dengmao.w
 
 Optimized mainly for HTML, CSS, JS, JSON.
 
-Warning: It maybe a bit excentric.
+Warning: It may be a bit excentric.
 
 Install
 ----------
