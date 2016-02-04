@@ -15,6 +15,6 @@ Clone/download into Sublime Package folder or use Sublime package manager.
 Examples
 ----------
 
-![html](https://dl.dropboxusercontent.com/u/33040431/html.png)
+![html](https://raw.githubusercontent.com/vlad-saling/blobs/master/sublime/wombatish/html.png)
 
-![css](https://dl.dropboxusercontent.com/u/33040431/css.png)
+![css](https://raw.githubusercontent.com/vlad-saling/blobs/master/sublime/wombatish/css.png)
